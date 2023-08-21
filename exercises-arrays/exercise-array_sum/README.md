@@ -1,6 +1,5 @@
 ## 👀 About the problem
 
-
 Create a program that reads N real numbers and stores them in an array. Then:
 
 - Print all elements of the array

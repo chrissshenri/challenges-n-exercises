@@ -1,6 +1,6 @@
 ## 👀 About the problem
 
-Create a program to read the name, age, and height of N individuals, as shown in the example. Then, display on the screen the average height of the individuals. Also, show the percentage of people under 16 years old, along with their names if applicable.
+Create a program that reads N real numbers and stores them in an array. Then, display on the screen the largest number in the array (assuming there are no ties). Also, show the position of the largest element, considering the first position as 0 (zero).
 
 ---
 

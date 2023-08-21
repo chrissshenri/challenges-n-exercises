@@ -1,6 +1,5 @@
 ## 👀 About the problem
 
-
 A merchant wants to calculate the profit from the goods they trade. To do this, they have arranged for a list of N items to be typed out, each containing the name, purchase price, and selling price of the goods. Create a program that reads this data and determines and writes how many items yielded:
 
 - profit < 10%

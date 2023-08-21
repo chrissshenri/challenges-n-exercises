@@ -1,8 +1,5 @@
 ## 👀 About the problem
 
-
-
-
 Create a program that reads N integer numbers and stores them in an array. Then, display on the screen all the even numbers and also the count of even numbers.
 
 ---
